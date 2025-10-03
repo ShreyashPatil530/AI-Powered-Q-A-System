@@ -397,9 +397,9 @@ This project is created for educational purposes as part of an internship assign
 ## 👤 Author
 
 **Shreyash Patil** 
-- GitHub: [@yourusername](https://github.com/ShreyashPatil530)
+- GitHub: [@shreyash](https://github.com/ShreyashPatil530)
 - Email: shreyashpatil530@gmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shreyash-patil-ba921737b/)
+- LinkedIn: [sp LinkedIn](https://www.linkedin.com/in/shreyash-patil-ba921737b/)
 
 ## 📞 Support
 
