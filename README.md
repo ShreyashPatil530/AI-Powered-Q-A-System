@@ -406,8 +406,7 @@ This project is created for educational purposes as part of an internship assign
 If you have questions or run into issues:
 1. Check the [Issues](https://github.com/shreyashpatil530/ai-qa-system/issues) page
 2. Create a new issue with details
-3. Email me at: your.email@example.com
-
+3. Email me at: shreyashpatil530@gmail.com
 ---
 
 **Built with 💡 curiosity, 💪 effort, and lots of ☕ coffee!**
